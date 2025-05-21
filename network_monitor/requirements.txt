@@ -1,0 +1,4 @@
+scapy
+psutil
+ping3
+mac-vendor-lookup
